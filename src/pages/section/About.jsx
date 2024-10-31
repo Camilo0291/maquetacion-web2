@@ -1,4 +1,3 @@
-import { } from "react-router-dom"
 import './About.css'
 
 const About = () => {
